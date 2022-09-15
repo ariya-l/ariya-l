@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0bytespeak
+- 👋 Hi, I’m @ariya-l
 - 👀 I’m interested in Functional Programming, Category Theory, Game Development
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on Solana Dapps
